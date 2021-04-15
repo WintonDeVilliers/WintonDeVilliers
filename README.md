@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WintonDeVilliers
-- 👀 I’m interested in ...Code,Music&Art(seeing these things come together)
-- 🌱 I’m currently learning ...How to become the best programmers I can be.
+- 👀 I’m interested in ...Code,Learning about Tech as it relates to future PAN-AFRO-SME, 
+     including but not limited to the Music&Arts Industry.
+- 🌱 I’m currently striving ... to become the best programmers I can be.
 - 💞️ I’m looking to collaborate on what you got. so...whatcha got ?
 - 📫 How to reach me ...wintondvllrs2@gmail.com
 
