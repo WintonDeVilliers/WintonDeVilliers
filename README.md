@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WintonDeVilliers
-- 👀 I’m interested in ...Code,Learning about Tech as it relates to future PAN-AFRO-SME, 
+- 👀 I’m interested in ...Code,Learning about Tech as it relates to future PAN-AFRO-SMEs', 
      including but not limited to the Music&Arts Industry.
 - 🌱 I’m currently striving ... to become the best programmers I can be.
 - 💞️ I’m looking to collaborate on what you got. so...whatcha got ?
